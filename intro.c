@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// ok i hope this is fine
 int main() {   
     char c;
     printf("Enter a Character :");
